@@ -1,7 +1,8 @@
 - Hi there 👋 , I’m Aastha Shukla
 - I am a first year student at Chandigarh University
 - I am interested in computers , coding and astronomy stuff
-- I’m currently learning Python and want to explore it more 
+- I’m currently learning Python and want to explore it more
+- Passionate about fullstack webdevelopment
 - I sometimes draw sketches and paintings 🎨
   
 
